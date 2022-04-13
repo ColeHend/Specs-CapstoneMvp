@@ -1,5 +1,7 @@
 ﻿**Idea**
-A world building tool that users can create an account login and create described locations with images and also mark a map with where those locations are. And access information on them by clicking on the location on the map. Also can save and access the maps in the future for editing. And share that map with others with a generated link.
+
+- A world building tool that users can create an account login and create described locations with images and also mark a map with where those locations are. And access information on them by clicking on the location on the map. Also can save and access the maps in the future for editing. And share that map with others with a generated link.
+
 **MVP**
 
 - User can login
@@ -16,7 +18,9 @@ A world building tool that users can create an account login and create describe
 - Profile Page
 - Mapping Page
 - Locations Page
-  **Database Contains**
+
+**Database Contains**
+
 - User info
 - Locations information
 - Map info
